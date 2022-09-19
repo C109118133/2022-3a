@@ -21,3 +21,6 @@ print s
 var s = "Javascript syntzx highlighting"
 alert(s);
 ```
+| Table | Are | Cool |
+|:------|:---:|-----:|
+| col 3 is  | right-alihned | $1600 |
