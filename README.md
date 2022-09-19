@@ -6,4 +6,8 @@
 ###### 2022-3a
 
 😄
+
 ![](nkust.png "nkust")
+
+- [ ] todo list
+- [x] done
