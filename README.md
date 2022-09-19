@@ -12,6 +12,11 @@
 - [ ] todo list
 - [x] done
 
+Emphasis, aka italics, with *asterisks or underscores.*
+Strong emphasis, aka bold, with **asterisks** or **underscores**.
+Combined emphasis ith **asterisks and underscores**.
+Strikethrough uses two tildes. ~~Scratch this~~.
+
 ```python
 s = "Python Syntax Highlighting"
 print s
@@ -21,6 +26,7 @@ print s
 var s = "Javascript syntzx highlighting"
 alert(s);
 ```
+
 | Table | Are | Cool |
 |:------|:---:|-----:|
 | col 3 is  | right-alihned | $1600 |
