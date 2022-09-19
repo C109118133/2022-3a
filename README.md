@@ -21,7 +21,7 @@ print s
 var s = "Javascript syntzx highlighting"
 alert(s);
 ```
-| *Table* | Are | Cool |
+| Table | Are | Cool |
 |:------|:---:|-----:|
 | col 3 is  | right-alihned | $1600 |
 | col 2 is  | centered | $12 |
@@ -29,5 +29,5 @@ alert(s);
 
 | Markdown | Less | Pretty |
 |:------|:---:|-----:|
-| Still  | renders | nicely |
+| *Still*  | renders | nicely |
 | 1  | 2 | 3 |
