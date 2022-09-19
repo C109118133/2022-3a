@@ -24,3 +24,5 @@ alert(s);
 | Table | Are | Cool |
 |:------|:---:|-----:|
 | col 3 is  | right-alihned | $1600 |
+| col 2 is  | centered | $12 |
+| zebra stripes  | are neat | $1 |
