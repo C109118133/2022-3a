@@ -14,3 +14,4 @@
 
 ```python
 s = "Python Syntax Highlighting"
+print s
