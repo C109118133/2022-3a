@@ -27,7 +27,7 @@ alert(s);
 | col 2 is  | centered | $12 |
 | zebra stripes  | are neat | $1 |
 
-| Markdown | Less | Pretty |
+| **Markdown** | **Less** | **Pretty** |
 |:------|:---:|-----:|
-| *Still*  | renders | nicely |
+| *Still*  | renders | **nicely** |
 | 1  | 2 | 3 |
