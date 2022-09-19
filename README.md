@@ -12,7 +12,7 @@
 - [ ] todo list
 - [x] done
 
-Emphasis, aka italics, with *asterisks or underscores.*  \r
+Emphasis, aka italics, with *asterisks or underscores.*  
 Strong emphasis, aka bold, with **asterisks** or **underscores**.  
 Combined emphasis ith **asterisks and underscores**. 
 Strikethrough uses two tildes. ~~Scratch this~~. 
